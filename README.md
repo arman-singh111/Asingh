@@ -1,4 +1,4 @@
-Revenue Regression Analysis (AFM 244)
+Revenue Regression Analysis (Project)
 
 Predicting monthly revenue from operational and weather data using ordinary least squares (OLS) regression. Seven candidate models are fit on a training period and compared on a held-out testing period using Mean Absolute Percentage Error (MAPE).
 
